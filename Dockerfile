@@ -7,6 +7,6 @@ COPY . .
 
 RUN npm i
 
-RUN npx tsc 
+# RUN npx tsc 
 
-CMD ["node", "src/index.js"]
+CMD ["node", "src/foo.js"]
