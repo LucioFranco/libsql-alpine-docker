@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@libsql/client": "0.4"
+  },
+  "type": "module"
+}
